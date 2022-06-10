@@ -1,1 +1,1 @@
-# AI-Capstone-Team-6
+# Dcard-Popular-Posts-Prediction
