@@ -21,8 +21,8 @@
 
 |        | Popular | Not Popular |
 | ------ | ------- | ----------- |
-| **Title**  |    ![](https://i.imgur.com/nCHmF1Z.png)     | ![](https://i.imgur.com/46okzMz.png)
-| **Topics** |![](https://i.imgur.com/ob23bnA.png)| ![](https://i.imgur.com/dbxQIoc.png) |
+| **Title**  |    ![](https://i.imgur.com/Ogq6eBZ.png) | ![](https://i.imgur.com/37b0plv.png)
+| **Topics** |![](https://i.imgur.com/A2cifFI.png)| ![](https://i.imgur.com/rqQFKDf.png)|
 
 ## IV. Data Preprocessing
 
