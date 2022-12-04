@@ -82,15 +82,6 @@
 |         MLP 3 layer         |             0.81             |            0.82           |
 |         MLP 2 layer         |             0.79             |            0.82           |
 
-### 不同categorical feature及文字資料組合
-| anonymousSchool | anonymousDepartment | gender | forumName | title | topics | Accuracy |
-|:---------------:|:-------------------:|:------:|:---------:|:-----:|:------:|:--------:|
-|        V        |          V          |    V   |     V     |   V   |    V   |   **0.89**   |
-|        V        |          V          |    V   |     X     |   V   |    V   |   0.79   |
-|        V        |          V          |    X   |     X     |   V   |    V   |   0.81   |
-|        V        |          V          |    X   |     V     |   V   |    V   |   0.85   |
-|        V        |          X          |    X   |     V     |   V   |    V   |   0.87   |
-|        X        |          X          |    X   |     V     |   V   |    V   |   0.88   |
 
 
 
