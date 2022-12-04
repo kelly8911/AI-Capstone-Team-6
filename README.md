@@ -26,7 +26,7 @@
 
 ## IV. Data Preprocessing
 
-![](https://i.imgur.com/qBbaK3K.png)
+![](https://i.imgur.com/ya0ekNb.jpg)
 
 ## V. Model
 * Naive Bayes
