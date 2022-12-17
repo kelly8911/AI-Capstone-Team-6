@@ -42,7 +42,7 @@
 |        Naive Bayes       |   0.85   |    0.84   |   0.84   |      0.85     |
 |    Logistic Regression   |   0.85   |    0.84   |   0.84   |      0.85     |
 |         KNN(k=10)        |   0.79   |    0.78   |   0.79   |      0.80     |
-| MLP 4 layer with dropout | **0.87** |  **0.81** | **0.87** |    **0.87**   |
+| MLP 4 layer with dropout | **0.87** |  **0.88** | **0.87** |    **0.87**   |
 
 ### KNN
 |  k | without  categorical feature | with  categorical feature |
